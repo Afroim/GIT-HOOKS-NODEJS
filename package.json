@@ -19,8 +19,13 @@
   },
   "homepage": "https://github.com/Afroim/GIT-HOOKS-NODEJS#readme",
   "devDependencies": {
-    "jest": "^30.5.2"
+    "husky": "^4.3.8",
+    "jest": "^30.5.2",
+    "pre-commit": "^2.0.0"
   },
+  "pre-commit": [
+    "test"
+  ],
   "allowScripts": {
     "@parcel/watcher@2.6.0": true
   }
