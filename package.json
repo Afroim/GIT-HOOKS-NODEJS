@@ -1,0 +1,27 @@
+{
+  "name": "git-hooks-nodejs",
+  "version": "1.0.0",
+  "description": "\"# GIT-HOOKS-NODEJS\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Afroim/GIT-HOOKS-NODEJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Afroim/GIT-HOOKS-NODEJS/issues"
+  },
+  "homepage": "https://github.com/Afroim/GIT-HOOKS-NODEJS#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  },
+  "allowScripts": {
+    "@parcel/watcher@2.6.0": true
+  }
+}
